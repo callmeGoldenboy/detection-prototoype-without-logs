@@ -110,13 +110,13 @@ def get_empty_headers():
     }
 
 def get_home_url():
-    return "https://sandbox-dot-panprices.appspot.com/"
+    return "https://google.com/"
 
 def get_search_url():
-    return "https://sandbox-dot-panprices.appspot.com/search/apple_airpods_pro"
+    return "https://google.com"
 
 def get_product_url():
-    return "https://sandbox-dot-panprices.appspot.com/offers/71448/Apple-AirPods-Pro"
+    return "https://google.com"
 
 
 def scrape(int=1, user_agent=False, sleeep=False):
